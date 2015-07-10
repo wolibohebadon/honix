@@ -8,3 +8,10 @@
 1.修改relay電路並使用
 2.Usart設置努力中
 3.試著try看看能否自己傳自己
+
+2015/7/10
+1.uart腳位設置
+2.switch case 的語法練習
+3.typedef 定義腳位位址練習
+4.extern 的用法
+5.relay電路連結uart外部輸入中斷完成!
